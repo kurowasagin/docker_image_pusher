@@ -1,1 +1,8 @@
-jxxghp/moviepilot-v2:2.2.8
+jxxghp/moviepilot-v2.2.8-1
+cooderl/wewe-rss-sqlite:latest
+miniflux/miniflux:latest
+mysql:8.3.0
+portainer/portainer-ce:latest
+postgres:17-alpine
+alexscifier/neonlink
+linuxserver/qbittorrent
