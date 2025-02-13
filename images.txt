@@ -1,3 +1,4 @@
+jxxghp/moviepilot-v2:latest
 jxxghp/moviepilot:latest
 cooderl/wewe-rss-sqlite:latest
 miniflux/miniflux:latest
