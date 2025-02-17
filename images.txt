@@ -6,4 +6,4 @@ portainer/portainer-ce:latest
 postgres:17-alpine:latest
 alexscifier/neonlink:latest
 linuxserver/qbittorrent:latest
-zerotier/zerotier:latest
+zerotier/zerotier
