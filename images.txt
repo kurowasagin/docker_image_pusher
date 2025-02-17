@@ -1,9 +1,12 @@
 jxxghp/moviepilot-v2:latest
-jxxghp/moviepilot:latest
 cooderl/wewe-rss-sqlite:latest
 miniflux/miniflux:latest
 portainer/portainer-ce:latest
+
 postgres:17-alpine:latest
+
 alexscifier/neonlink:latest
+
 linuxserver/qbittorrent:latest
+
 zerotier/zerotier:latest
