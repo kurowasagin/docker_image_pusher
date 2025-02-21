@@ -1,4 +1,4 @@
-jxxghp/moviepilot-v2:latest
+jxxghp/moviepilot-v2:v2.3.0
 cooderl/wewe-rss-sqlite:latest
 miniflux/miniflux:latest
 portainer/portainer-ce:latest
