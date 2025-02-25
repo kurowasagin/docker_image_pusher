@@ -5,3 +5,4 @@ portainer/portainer-ce:latest
 alexscifier/neonlink:latest
 linuxserver/qbittorrent:latest
 zerotier/zerotier:latest
+b3log/siyuan:latest
