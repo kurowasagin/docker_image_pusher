@@ -6,3 +6,4 @@ alexscifier/neonlink:latest
 linuxserver/qbittorrent:latest
 zerotier/zerotier:latest
 b3log/siyuan:latest
+tailscale/tailscale:latest
