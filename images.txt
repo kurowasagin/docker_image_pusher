@@ -8,3 +8,4 @@ zerotier/zerotier:latest
 b3log/siyuan:latest
 tailscale/tailscale:latest
 nginx
+frooodle/s-pdf:latest
