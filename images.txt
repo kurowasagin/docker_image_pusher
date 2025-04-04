@@ -9,3 +9,4 @@ b3log/siyuan:latest
 tailscale/tailscale:latest
 nginx
 frooodle/s-pdf:latest
+wushuo894/ani-rss:latest
