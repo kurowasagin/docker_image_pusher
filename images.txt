@@ -12,3 +12,4 @@ frooodle/s-pdf:latest
 wushuo894/ani-rss:latest
 hwdsl2/ipsec-vpn-server:latest
 ilay/alipan-tv-token:latest
+xhofe/alist:latest
